@@ -1,2 +1,2 @@
 # hello-world
-Name is self explanatory
+The name is self explanatory
